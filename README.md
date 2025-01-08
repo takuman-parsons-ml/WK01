@@ -1,3 +1,3 @@
 # Week 01
 
-Some Python syntax intro
+Python syntax and Notebook intro
